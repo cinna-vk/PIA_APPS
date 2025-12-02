@@ -1,6 +1,9 @@
 {
   "expo": {
     "sdkVersion": "48.0.18",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
     "name": "mi-primera-react-native-app",
     "slug": "mi-primera-react-native-app",
     "version": "1.0.0",
